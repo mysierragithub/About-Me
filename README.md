@@ -1,7 +1,7 @@
 # About-Me
 My first repository
 
-This is Khoi Le, from Sacramento, CA.  This is my first time working with github.
+This is Khoi Le, from Sacramento, CA.  Last year with Sierra College.  This is my first time working with github.
 
 Always Remind other student that seeking help is not something to be ashamed of. In fact, students that are wise and perform well in college are the ones that seek help when they need it. If student is struggling academically or emotionally, encourage them to seek help from all the resources available including proctors, mentors, professors, Career Services and Health Services.
 
