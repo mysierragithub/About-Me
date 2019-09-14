@@ -1,5 +1,6 @@
 # About-Me
-                 ###Welcome to Khoi Le Github Page
+
+###                Welcome to Khoi Le Github Page
 <img src="https://github.com/mysierragithub/About-Me/blob/master/Octocat%20Github.png"> 
                     (My first repository)
 
