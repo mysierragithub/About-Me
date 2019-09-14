@@ -21,4 +21,14 @@ Learning to love unconditionally here on earth brings me closer to the God of my
 I think when I learn my lessons I will be called home, my job is to do my best while I am here & that is the most important thing to me.
 
 -Over all, I'm a Fun, Energetic and easy to get along with.  Love reading, fishing and exercising on my free time.
+
+
+    [Go Back] (https://github.com/mysierragithub)
+1.	[Fundamentals of Programming in Python] (https://github.com/mysierragithub/Fundamentals-of-Programming-in-Python)
+2.	[Internet of Things (IoT)] (https://github.com/mysierragithub/Internet-of-Things-IoT-)
+3.	[Secure Scripting] (https://github.com/mysierragithub/Secure-Scripting)
+4.	[Data Analytics] https://github.com/mysierragithub/Data-Analytics()
+5.	[Python Hackathon] (https://github.com/mysierragithub/Python-Hackathon)
+
+
 #####                                             Thank You for Visiting
