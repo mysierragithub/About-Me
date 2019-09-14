@@ -22,13 +22,27 @@ I think when I learn my lessons I will be called home, my job is to do my best w
 
 -Over all, I'm a Fun, Energetic and easy to get along with.  Love reading, fishing and exercising on my free time.
 
+<p align="center">
+  <img width=50" height="50" src="https://github.com/mysierragithub/About-Me/blob/master/Thank%20You.png">
+</p>
 
-    [Go Back] (https://github.com/mysierragithub)
-1.	[Fundamentals of Programming in Python] (https://github.com/mysierragithub/Fundamentals-of-Programming-in-Python)
-2.	[Internet of Things (IoT)] (https://github.com/mysierragithub/Internet-of-Things-IoT-)
-3.	[Secure Scripting] (https://github.com/mysierragithub/Secure-Scripting)
-4.	[Data Analytics] https://github.com/mysierragithub/Data-Analytics()
-5.	[Python Hackathon] (https://github.com/mysierragithub/Python-Hackathon)
+###   <p align="center">**Thank You for Visiting**</p>        
 
 
-#####                                             Thank You for Visiting
+1.	[Fundamentals of Programming in Python] 
+(https://github.com/mysierragithub/Fundamentals-of-Programming-in-Python)
+
+2.	[Internet of Things (IoT)] 
+(https://github.com/mysierragithub/Internet-of-Things-IoT-)
+
+3.	[Secure Scripting] 
+(https://github.com/mysierragithub/Secure-Scripting)
+
+4.	[Data Analytics] 
+(https://github.com/mysierragithub/Data-Analytics)
+
+5.	[Python Hackathon] 
+(https://github.com/mysierragithub/Python-Hackathon)
+
+
+<p align="center"><a class="github-button" href="https://github.com/mysierragithub" aria-label="Star ntkme/github-buttons on GitHub">GoBack</a>
