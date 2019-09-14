@@ -3,7 +3,7 @@
 
 <img src="https://github.com/mysierragithub/About-Me/blob/master/Octocat%20Github.png"> 
 
-##                           Biography
+##       _Italic_              Biography
 
 -My name is Khoi Le. Second year Sierra College's student.  This is my first time working with github.
 
