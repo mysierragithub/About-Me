@@ -29,20 +29,15 @@ I think when I learn my lessons I will be called home, my job is to do my best w
 ###   <p align="center">**Thank You for Visiting**</p>        
 
 
-1.	[Fundamentals of Programming in Python] 
-(https://github.com/mysierragithub/Fundamentals-of-Programming-in-Python)
+1.	<p align="left"><a class="github-button" href="https://github.com/mysierragithub/Fundamentals-of-Programming-in-Python"Star ntkme/github-buttons on GitHub">Fundamentals of Programming in Python</a>
 
-2.	[Internet of Things (IoT)] 
-(https://github.com/mysierragithub/Internet-of-Things-IoT-)
+2.	<p align="left"><a class="github-button" href="https://github.com/mysierragithub/Internet-of-Things-IoT-"Star ntkme/github-buttons on GitHub">Internet of Things (IoT)</a>
 
-3.	[Secure Scripting] 
-(https://github.com/mysierragithub/Secure-Scripting)
+3.	<p align="left"><a class="github-button" href="https://github.com/mysierragithub/Secure-Scripting"Star ntkme/github-buttons on GitHub">Secure Scripting</a>
 
-4.	[Data Analytics] 
-(https://github.com/mysierragithub/Data-Analytics)
+4.	<p align="left"><a class="github-button" href="https://github.com/mysierragithub/Data-Analytics"Star ntkme/github-buttons on GitHub">Data Analytics</a>
 
-5.	[Python Hackathon] 
-(https://github.com/mysierragithub/Python-Hackathon)
+5.	<p align="left"><a class="github-button" href="https://github.com/mysierragithub/Python-Hackathon"Star ntkme/github-buttons on GitHub">Python Hackathon</a>
 
 
 <p align="center"><a class="github-button" href="https://github.com/mysierragithub" aria-label="Star ntkme/github-buttons on GitHub">GoBack</a>
