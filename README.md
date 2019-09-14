@@ -1,5 +1,5 @@
 ###                    Welcome to Khoi Le My first Github repository Page
-# About-Me
+# **About-Me**
 
 <img src="https://github.com/mysierragithub/About-Me/blob/master/Octocat%20Github.png"> 
 
@@ -20,6 +20,5 @@ My version of my Higher Power is love. All encompassing, L.O.V.E.
 Learning to love unconditionally here on earth brings me closer to the God of my understanding & helps me to love myself & everyone else. Even the people I do not like. Expecially, the people I do not like.
 I think when I learn my lessons I will be called home, my job is to do my best while I am here & that is the most important thing to me.
 
- -About yourself:
-Fun, Energetic and easy to get along with.  Love reading, fishing and exercising on my free time.
+-Over all, I'm a Fun, Energetic and easy to get along with.  Love reading, fishing and exercising on my free time.
 #####                   Thank You for Visiting
