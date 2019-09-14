@@ -21,4 +21,4 @@ Learning to love unconditionally here on earth brings me closer to the God of my
 I think when I learn my lessons I will be called home, my job is to do my best while I am here & that is the most important thing to me.
 
 -Over all, I'm a Fun, Energetic and easy to get along with.  Love reading, fishing and exercising on my free time.
-#####                   Thank You for Visiting
+#####                                             Thank You for Visiting
