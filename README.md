@@ -1,7 +1,7 @@
 # About-Me
-                              Welcome to Khoi Le Github Page
+                            Welcome to Khoi Le Github Page
 
-                                   (My first repository)
+                                (My first repository)
 
 -This is Khoi Le, from Sacramento, CA.  Last year with Sierra College.  This is my first time working with github.
 
