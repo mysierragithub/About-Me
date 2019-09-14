@@ -2,7 +2,8 @@
 
 ###                    Welcome to Khoi Le Github Page
 <img src="https://github.com/mysierragithub/About-Me/blob/master/Octocat%20Github.png"> 
-                    (My first repository)
+
+##                           (My first repository)
 
 -This is Khoi Le, from Sacramento, CA.  Last year with Sierra College.  This is my first time working with github.
 
