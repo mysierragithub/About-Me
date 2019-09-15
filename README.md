@@ -1,6 +1,6 @@
 #  Welcome to Khoi Le's first Github repository Page 
 
-# **About-Me**
+# **About-Me** <p align="center">
 
 <img src="https://github.com/mysierragithub/About-Me/blob/master/Octocat%20Github.png"> 
 
@@ -42,4 +42,4 @@ I think when I learn my lessons I will be called home, my job is to do my best w
 5.	<p align="left"><a class="github-button" href="https://github.com/mysierragithub/Python-Hackathon"Star ntkme/github-buttons on GitHub">Python Hackathon</a>
 
 
-<p align="center"><a class="github-button" href="https://github.com/mysierragithub" aria-label="Star ntkme/github-buttons on GitHub">GoBack</a>
+<p align="center"><a class="github-button" href="https://github.com/mysierragithub" aria-label="Star ntkme/github-buttons on GitHub">**GoBack**</a>
